@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-red" alt="Lisense">
 </p>
 
-<p align="center"><a href="http://skrshop.tech/">skrshop.tech</a></p>
+<p align="center"><a href="http://skrshop.tigerb.cn/">skrshop.tigerb.cn</a></p>
 
 <p align="center">
     <img style="vertical-align:middle" width="60%" src="https://blog-1251019962.cos.ap-beijing.myqcloud.com/qiniu_img_2022/20191222164829.jpg?imageMogr2/thumbnail/1280x720!/format/webp/blur/1x0/quality/90|imageslim">
@@ -27,27 +27,15 @@
 
 为大家提供各个大厂渠道的内推。
 
-## 抖音电商
-
-1. 超高速发展的业务；意味着：技术挑战大、发挥空间大、钱多！
-2. 业界最新技术；微服务、ServiceMesh、Faas 都已经有落地方案，只要想，内部资料随时学；
-3. 技术氛围好；每周都有技术团队分享，随时约会交流，没有部门壁垒；
+## 抖音
 
 欢迎将简历投递至我的邮箱：**dayugog@gmail.com**
 <br>
 不限年限，只要你敢投，我就敢帮你推，快上车~
 
-## 小米海外电商
+## 小米
 
-- 简介：小米网海外电商平台
-- 技术栈：Go
-- 挑战，期待和你一起来解决：
-    + 全球化翻译问题
-    + 全球多机房问题
-    + 海外快速复制电商系统平台问题
-    + 反黄牛
-
-如果你对这些挑战很感兴趣，欢迎将简历投递至我的邮箱：**tigerbcode@gmail.com**
+欢迎将简历投递至我的邮箱：**tigerbcode@gmail.com**
 <br>
 不限年限，只要你敢投，我就敢帮你推，快上车~
 
